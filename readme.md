@@ -151,6 +151,3 @@ pip install -r requirements.txt
 If you like this project, please **⭐ star the repository**!
 
 ---
-
-
-Just tell me!
