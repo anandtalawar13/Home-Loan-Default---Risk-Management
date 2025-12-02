@@ -5,13 +5,24 @@
 <p align="center">
 
 <!-- Python version -->
-
 <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" />
 
-<!-- FastAPI -->
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/Machine_Learning-Models_Ready-orange?style=for-the-badge&logo=scikit-learn"/>
 
+<!-- Imbalanced Classification -->
+<img src="https://img.shields.io/badge/Imbalanced_Learning-Supported-red?style=for-the-badge" />
+
+<!-- Feature Engineering -->
+<img src="https://img.shields.io/badge/Feature_Engineering-Enabled-ff6600?style=for-the-badge" />
+
+<!-- Threshold Tuning -->
+<img src="https://img.shields.io/badge/Threshold_Tuning-Optimized-00C853?style=for-the-badge" />
+
+<!-- FastAPI -->
 <img src="https://img.shields.io/badge/FastAPI-Production%20API-009688?style=for-the-badge&logo=fastapi" /> 
 
+</p>
 
 ---
 
